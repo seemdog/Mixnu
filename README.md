@@ -92,7 +92,7 @@ Deduct fluency points if the model generates output in a different language from
 
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/71a2e46f-bb25-4210-8cdc-48f3f48b17ae">
 
-## Reponse Examples
+## Response Examples
 ### Prompt
 ```
 이번에 완전 불수능이었어요.
