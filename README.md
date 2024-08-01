@@ -19,7 +19,7 @@ The table below compares the vocabulary size, percentage of unkown tokens(tokens
 
 ## Model Architecture
 
-Employing `Llama-2 7b` with the extended tokenizer as the foundational model, we develop four different models with four separate train data.  
+Employing `Llama-2 7b` with the extended tokenizer as the foundational model, we develop four different expert models with four separate train data.  
 As the figure shows, the four expert models are then incorporated into one model using the `Mixtral` Architecture, resulting in a 19b MoE model.  
 
 <img width="500" alt="architecture" src="https://github.com/user-attachments/assets/003400e7-7bfb-49bb-84a3-5bf315cb96bb">
