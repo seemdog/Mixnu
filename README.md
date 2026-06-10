@@ -120,7 +120,7 @@ Ko-Mixtral-v1.3-MoE-7Bx2
 ```
 
 ## Authors
-Jean Seo(seemdog@snua.ac.kr)  
+Jean Seo(seemdog@snu.ac.kr)  
 Sungjoo Byun(byunsj@snu.ac.kr)  
 Jaeyoon Kim(toscour345@snu.ac.kr)  
 Hyemi Jo(huimei6361@snu.ac.kr)  
